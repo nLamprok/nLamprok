@@ -7,7 +7,7 @@ I've been developing software for a long enough time to know what I love the mos
 Some of the technologies I work with lately:
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp; ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp; ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) <br />
-_there's probably more, but I'm too lazy to list them all_
+_there's probably more, but I'm focusing on the **recent** ones_
 
 You won't find much here, as most of my work is being done privately either for [my company's](https://noeticblue.com) clients or for older freelacing work. I'll try to publish small bits of projects to be publicly available soon.
 
@@ -21,4 +21,7 @@ I use a macbook pro (been using macOS since forever) and I edit all my work (and
 
 I'd be glad to hear from you. If you're interested to work together, drop me a line:
 
-![mailto:nlamprok@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp; ![twitter.com/nLamprok](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) &nbsp; ![www.linkedin.com/in/nlamprok](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) &nbsp; ![github.com/nLamprok](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) &nbsp; 
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ![mailto:nlamprok@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [nlamprok@gmail.com](mailto:nlamprok@gmail.com) | ![www.linkedin.com/in/nlamprok](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [www.linkedin.com/in/nlamprok](www.linkedin.com/in/nlamprok) | ![twitter.com/nLamprok](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) | [twitter.com/nLamprok](twitter.com/nLamprok) | 
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
