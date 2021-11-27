@@ -13,7 +13,7 @@ You won't find much here, as most of my work is being done privately either for 
 
 ## Daily driver
 
-I use a macbook pro (been using macOS since forever) and I edit all my work (and more) on [neovim](github.com/neovim/neovim) using [tmux](github.com/tmux/tmux) to fine tune my panes. You can find my dotfiles (and use them at your own risk) in my [dotfiles repo](github.com/nLamprok/dotfiles).
+I use a macbook pro (been using macOS since forever) and I edit all my work (and more) on [neovim](github.com/neovim/neovim) using [tmux](github.com/tmux/tmux) to fine tune my terminal -I've been trying Kitty lately- panes. You can find my dotfiles (and use them at your own risk) in my [dotfiles repo](github.com/nLamprok/dotfiles).
 
 ![](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white) &nbsp; ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) &nbsp; ![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
